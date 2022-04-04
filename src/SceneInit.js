@@ -31,7 +31,7 @@ class SceneInit {
       1,
       1000
     );
-    this.camera.position.z = 96;
+    this.camera.position.z = 48;
 
     
     this.scene = new THREE.Scene();
